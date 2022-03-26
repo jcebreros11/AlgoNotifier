@@ -1,0 +1,6 @@
+*.properties
+*.class
+*.DS_STORE
+*.classpath
+*.project
+*.settings/
